@@ -1,4 +1,4 @@
-import StudenTable from "app/components/StudenTable"
+import StudenTable from "app/components/studenTable"
 
 
 export default function Home() {
