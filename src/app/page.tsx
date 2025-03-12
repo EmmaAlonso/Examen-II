@@ -1,4 +1,4 @@
-import StudentTable from "app/components/studentTable";
+import StudenTable from "app/components/StudenTable";
 
 
 export default function Home() {
@@ -11,7 +11,7 @@ export default function Home() {
       <h1 className="text-4xl text-center mt-8">
         ¿Crees poder lograrlo? Si no confias en ti, quien lo hará?
       </h1>
-      <StudentTable/>
+      <StudenTable/>
       <h2 className="text-2xl text-center mt-4">
         Aquí debe de verse tu tabla, ¿cuál tabla? Lee el archivo README
       </h2>
